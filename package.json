@@ -1,6 +1,6 @@
 {
   "homepage": "https://TanneruGouripadma.github.io/coffeecart",
-  "name": "coffeecart-react",
+  "name": "coffeecart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
