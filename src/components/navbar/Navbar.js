@@ -24,6 +24,7 @@ export default function Navbar() {
         <Link to={`${PATH}/`} onClick={() => setFlag((prev) => 0)}>
         <IoLogOutSharp />Logout
         </Link>
+        
       </div>
     </div>
   );
